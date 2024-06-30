@@ -31,3 +31,4 @@ function beginBattle(attacker, defender) {
 
     return true;
 } // End beginBattle
+// .
