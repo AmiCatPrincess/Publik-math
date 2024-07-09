@@ -29,8 +29,3 @@ function beginBattle(attacker, defender) {
 
     // TODO: Process the logic that handles attacker or defender deaths
 
-    return true;
-} // End beginBattle
-// .
-def compact(arr):
-    return list(filter(lambda x: bool(x), arr))
