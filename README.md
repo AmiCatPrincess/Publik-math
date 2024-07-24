@@ -32,3 +32,4 @@ function beginBattle(attacker, defender) {
 ..
 ..
 .
+wait_until(condition=five_seconds_passed, description='Five seconds are over', timeout=10)
